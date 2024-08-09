@@ -44,3 +44,8 @@
     border: 1px solid black;
     cursor: pointer;
 }
+
+.btn:hover{
+    box-shadow: 0 0 10px 0 white;
+    transition: 0.5s;
+}
