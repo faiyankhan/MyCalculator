@@ -12,6 +12,11 @@
     padding: 20px;
 }
 
+.calculaotr-body:hover{
+    box-shadow:0 0 10px 0 black;
+    transition: 0.5s;
+}
+
 .display{
     height: 100px;
     width: 252px;
